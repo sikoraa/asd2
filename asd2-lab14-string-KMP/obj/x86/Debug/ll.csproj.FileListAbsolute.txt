@@ -1,0 +1,17 @@
+h:\Windows7\Desktop\asd2\lab14\obj\x86\Debug\ll.csprojResolveAssemblyReference.cache
+h:\Windows7\Desktop\asd2\lab14\obj\x86\Debug\ll.csproj.CoreCompileInputs.cache
+h:\Windows7\Desktop\asd2\lab14\bin\Debug\ConsoleApplication.exe.config
+h:\Windows7\Desktop\asd2\lab14\bin\Debug\ConsoleApplication.exe
+h:\Windows7\Desktop\asd2\lab14\bin\Debug\ConsoleApplication.pdb
+h:\Windows7\Desktop\asd2\lab14\bin\Debug\TestSet.dll
+h:\Windows7\Desktop\asd2\lab14\obj\x86\Debug\ConsoleApplication.exe
+h:\Windows7\Desktop\asd2\lab14\obj\x86\Debug\ConsoleApplication.pdb
+D:\github\asd2\asd2-lab14-string-KMP\bin\Debug\ConsoleApplication.exe.config
+D:\github\asd2\asd2-lab14-string-KMP\bin\Debug\ConsoleApplication.exe
+D:\github\asd2\asd2-lab14-string-KMP\bin\Debug\ConsoleApplication.pdb
+D:\github\asd2\asd2-lab14-string-KMP\bin\Debug\TestSet.dll
+D:\github\asd2\asd2-lab14-string-KMP\obj\x86\Debug\ll.csprojAssemblyReference.cache
+D:\github\asd2\asd2-lab14-string-KMP\obj\x86\Debug\ll.csproj.CoreCompileInputs.cache
+D:\github\asd2\asd2-lab14-string-KMP\obj\x86\Debug\ll.csproj.CopyComplete
+D:\github\asd2\asd2-lab14-string-KMP\obj\x86\Debug\ConsoleApplication.exe
+D:\github\asd2\asd2-lab14-string-KMP\obj\x86\Debug\ConsoleApplication.pdb

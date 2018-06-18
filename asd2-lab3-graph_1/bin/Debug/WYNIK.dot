@@ -1,0 +1,7 @@
+digraph
+{
+	node [shape=circle, label="v0"] 0;
+	node [shape=circle, label="v1"] 1;
+	0 -> 1 [label="0"]
+	1 -> 0 [label="1"]
+}

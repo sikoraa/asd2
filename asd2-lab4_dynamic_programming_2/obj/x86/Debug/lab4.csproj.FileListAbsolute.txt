@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\vs\asd2\lab4\obj\x86\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\vs\asd2\lab4\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\vs\asd2\lab4\bin\Debug\ConsoleApplication.exe.config
+C:\Users\admin\Desktop\vs\asd2\lab4\bin\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\asd2\lab4\bin\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\asd2\lab4\bin\Debug\TestSet.dll
+C:\Users\admin\Desktop\vs\asd2\lab4\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\asd2\lab4\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\bin\Debug\ConsoleApplication.exe.config
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\bin\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\bin\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\obj\x86\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\obj\x86\Debug\lab4.csproj.CopyComplete
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\bin\Debug\TestSet.dll
+C:\Users\admin\Desktop\vs\github\asd2\asd2-lab4_dynamic_programming_2\obj\x86\Debug\lab4.csprojAssemblyReference.cache

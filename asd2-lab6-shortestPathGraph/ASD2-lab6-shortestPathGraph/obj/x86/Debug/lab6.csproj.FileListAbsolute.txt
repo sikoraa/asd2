@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\bin\Debug\ConsoleApplication.exe.config
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\bin\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\bin\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\bin\Debug\Graph.dll
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\bin\Debug\TestSet.dll
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\obj\x86\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\obj\x86\Debug\lab6.csproj.CopyComplete
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\admin\Desktop\vs\github\asd2\lab6\ASD2-lab6-shortestPathGraph\obj\x86\Debug\lab6.csprojAssemblyReference.cache
