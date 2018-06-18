@@ -1,9 +1,0 @@
-graph
-{
-	node [shape=circle, label="v0"] 0;
-	node [shape=circle, label="v1"] 1;
-	node [shape=circle, label="v2"] 2;
-	0 -- 1 [label="1"]
-	0 -- 2 [label="1"]
-	1 -- 2 [label="1"]
-}
