@@ -3,7 +3,7 @@
 This repo consists of all the laboratory tasks I had to write during the Algorithms and Data Structures course at my university. Each task was divided into 2 parts: the lab part and home part. The lab part was the part where I was shown the problem and had to solve it in 90 minutes. After that, during the home part, I had to refine my solution (improve time complexity, for example) in order to pass more rigorous unit tests.
 
 ## Installation
-In order to run the code, you need to build it in VS. Remember to add a reference to `dll/Graph.dll` and `_dll/TestSet.dll`. The former is a graph library that we were using during the course. The latter one helps to define unit tests for the algorithms.
+In order to run the code, you need to build it in VS. Remember to add a reference to `dll/Graph.dll` and `dll/TestSet.dll`. The former is a graph library that we were using during the course. The latter one helps to define unit tests for the algorithms.
 
 ## Tasks
 
